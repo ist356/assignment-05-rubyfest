@@ -41,4 +41,6 @@ def upload_file(file_name, bucket_name, object_name=None):
 
 if __name__ == '__main__':
     #TODO: Write your load code here (remove pass first)
-    pass
+    upload_file('cache/survey_dataset.csv','ist356srrubens', 'survey_dataset.csv')
+    upload_file('cache/annual_salary_adjusted_by_location_and_age.csv','ist356srrubens', 'annual_salary_adjusted_by_location_and_age.csv')
+    upload_file('cache/annual_salary_adjusted_by_location_and_education.csv','ist356srrubens', 'annual_salary_adjusted_by_location_and_education.csv')

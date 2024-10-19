@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+This was very clearly the most extensive assignment so far, and I enjoyed it quite a bit. There were definitely moments where I overdid things and looked back realizing it wasn't necessary. As I become a professional in the data science world, it is important to fully read and understand the requirements of a project before working on it. I will continue to put more effort into doing this in the future
