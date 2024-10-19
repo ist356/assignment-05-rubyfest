@@ -26,7 +26,7 @@ def clean_country_usa(item: str) ->str:
     for p in possibilities:
         if p in item.lower():
             return 'United States'
-    pass
+    return item
 
 
 if __name__=='__main__':
